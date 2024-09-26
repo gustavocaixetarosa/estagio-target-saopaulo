@@ -85,6 +85,5 @@ def main():
     dias_acima = dias_acima_da_media(json_vendas)
     print(f'O valor de faturamento diário foi acima da média {dias_acima} dias.')
 
-
 if __name__ == '__main__':
     main()
